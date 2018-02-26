@@ -40,7 +40,7 @@ evaluate parser outputs in the [2017 EPE shared task](http://epe.nlpl.eu/).
 Structures](http://www.uio.no/studier/emner/matnat/ifi/INF2220/) class. I also
 TA'ed the [introductory course on interaction
 design](http://www.uio.no/studier/emner/matnat/ifi/INF1510/), where I was also
-tasked with developing obligatory assignments using (Processing)[https://processing.org/] and (Arduinos)[https://www.arduino.cc/].
+tasked with developing obligatory assignments using [Processing](https://processing.org/) and [Arduinos](https://www.arduino.cc/).
 
 ### Education 
 
