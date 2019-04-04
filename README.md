@@ -14,7 +14,7 @@ and journals.
 
 > We make chatbots!
 
-- 2012-2018 (expected): PhD Research Fellow in NLP, University of Oslo
+- 2012-2019 (expected): PhD Research Fellow in NLP, University of Oslo
 
 > My PhD work is partly funded by the [CLARINO project](https://clarin.w.uib.no/), whose mission is facilitating
 access to NLP tools and resources for researchers in the Social Sciences and the Humanities.
