@@ -2,31 +2,31 @@
 
 <img src="/images/eman.jpg" width="150">
 
-**In short**: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. I am an excellent communicator, and I am able to lead.
+**In short**: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. Excellent communicator, team player, and able to lead.
 
 **More in depth**: I have experience from Academia, where I have worked both as a PhD fellow in Language Technology and as a project researcher, as well as from the industry, where I have led a team of 5 data scientists working on a widely adopted platform for creating virtual assistants.
 
 I am very fluent in the Python ecosystem for Natural Language Processing (NLP): From low-level pre-processing tools, through shallow and deep learning methods for modeling supervised and unsupervised NLP tasks, to data visualization and deployment using e.g. Docker and Kubernetes.
 
-I have a lot of experience in communicating my work and research through both academic and informal, "blog style"-writing, and I love public speaking (people say I am good at it, too!). I have presented my work in several international conferences, and in my time in the industry I have dedicated a lot of time to customer relations, improving their understanding of AI and NLP.
+I have a lot of experience in communicating my work and research through both academic and informal, "blog style" writing, and I love public speaking (people say I am good at it, too!). I have presented my work in several international conferences, and in my time in the industry I have dedicated a lot of time to customer relations, improving their understanding of AI and NLP.
 
-I am fluent in Italian, Norwegian and English.
+I speak and write Italian, Norwegian and English fluently, and love writing in general, be it code or prose.
 
 ### 👨🏻‍🔧 Employment 
 
 - 2018-present: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
-> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaing customer relations, and of course being hands on with the actual code that runs the show.
+> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaing customer relations, and of course being hands-on with the actual code that runs the show.
 
 - 2012-2019: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
-> My PhD work is partly funded by the [CLARINO project](https://clarin.w.uib.no/), whose mission is facilitating access to NLP tools and resources for researchers in the Social Sciences and the Humanities. Key contributions of the project:
+> My PhD work was partly funded by the [CLARINO project](https://clarin.w.uib.no/), whose mission is facilitating access to NLP tools and resources for researchers in the Social Sciences and the Humanities. Key contributions of the project:
 > - Creating a scalable interchange format for [the Language Analysis Portal](lap.clarino.uio.no)
 > - Collaboration with the Department of Political Science, creating and researching the [Talk of Norway data set](https://github.com/ltgoslo/talk-of-norway)
 
 - 2014-2015: Researcher, [CLARINO](https://clarin.w.uib.no/)
 
-> I was on leave from my PhD for about a year to continue designing and developing the [the Language Analysis Portal](lap.clarino.uio.no), a point-and-click interface for combining NLP tools and annotating text with linguistic annotations. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
+> I was on leave from my PhD for about a year to continue designing and developing the [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of the Abel cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
 
 - 2017: Researcher, [NLPL](https://neic.no/nlpl/)
 
@@ -44,7 +44,7 @@ I am fluent in Italian, Norwegian and English.
 
 - Ph.d.: Language Technology, University of Oslo, 2019
 > Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
-> Link [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
+> Link: [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
 
 - M.Sc.: Computer Science, University of Oslo, 2012
 > Thesis focus: Negation Resolution and Sentiment Analysis.
