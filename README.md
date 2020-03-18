@@ -1,6 +1,6 @@
 ## Emanuele Lapponi, Ph.D.
 
-![](images/eman.jpg | width=100)
+<img src="/images/eman.jpg" width="150">
 
 **In short**: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. I am an excellent communicator, and I am able to lead.
 
