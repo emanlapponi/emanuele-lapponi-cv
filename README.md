@@ -1,20 +1,22 @@
-## Emanuele Lapponi
+## Emanuele Lapponi, PhD
 
-### TL;DR
+In short: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. I am an excellent communicator, and I am able to lead.
 
-Strong NLP game: designing and evaluating supervised and unsupervised machine
-learning systems, implementing state-of-the-art NLP tools, experience with
-large-scale jobs on computing clusters as well as system development. Fluent
-in Python, Java, and the UNIX shell. Published NLP work in peer-reviewed conferences
-and journals.
+More in depth: I have experience from Academia, where I have worked both as a PhD fellow in Language Technology and as a project researcher, as well as from the industry, where I have led a team of 5 data scientists working on a widely adopted platform for creating virtual assistants.
+
+I am very fluent in the Python ecosystem for Natural Language Processing (NLP): From low-level pre-processing tools, through shallow and deep learning methods for modeling supervised and unsupervised NLP tasks, to data visualization and deployment using e.g. Docker and Kubernetes.
+
+I have a lot of experience in communicating my work and research through both academic and informal, "blog style"-writing, and I love public speaking (people say I am good at it, too!). I have presented my work in several international conferences, and in my time in the industry I have dedicated a lot of time to customer relations, improving their understanding of AI and NLP.
+
+I am fluent in Italian, Norwegian and English.
 
 ### Employment 
 
 - 2018-present: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
-> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. 
+> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaing customer relations, and of course being hands on with the actual code that runs the show.
 
-- 2012-2019 (expected): PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
+- 2012-2019: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
 > My PhD work is partly funded by the [CLARINO project](https://clarin.w.uib.no/), whose mission is facilitating access to NLP tools and resources for researchers in the Social Sciences and the Humanities. Key contributions of the project:
 > - Creating a scalable interchange format for [the Language Analysis Portal](lap.clarino.uio.no)
@@ -32,23 +34,22 @@ and journals.
 
 > Summer job at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis.
 
-- 2010-2012: Teaching Assistant, University of Oslo
+- 2010-2012: Teaching Assistant (TA), University of Oslo
 
 > I was a TA in the [Algorithms and Data Structures](http://www.uio.no/studier/emner/matnat/ifi/INF2220/) class. I also TA'ed the [introductory course on interaction design](http://www.uio.no/studier/emner/matnat/ifi/INF1510/), where I was also tasked with developing obligatory assignments using [Processing](https://processing.org/) and [Arduinos](https://www.arduino.cc/).
 
 ### Education 
 
+- Ph.d.: Language Technology, University of Oslo, 2019
+> Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
+> Link [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
+
 - M.Sc.: Computer Science, University of Oslo, 2012
 > Thesis focus: Negation Resolution and Sentiment Analysis.
+> Link: [Sequence Labeling the Scope of Negation Using Dependency Features](https://pdfs.semanticscholar.org/68b4/aea9428d2832de1e5442d85c25b129b582dd.pdf)
+> Grade: A
 
 - B.Sc.: Computer Science, University of Oslo, 2010
-
-### Key skills
-
-- Deep and shallow learning NLP techniques 
-- Broad knowledge of tools for linguistic pre-processing, from tokenization to syntacto-semantic analysis
-- Academic writing and presentation, communicating results and ideas
-- Fluent in Italian, Norwegian and English
 
 ### Selected Publications
 
