@@ -12,7 +12,7 @@ I have a lot of experience in communicating my work and research through both ac
 
 I am fluent in Italian, Norwegian and English.
 
-### Employment 
+### 👨🏻‍🔧 Employment 
 
 - 2018-present: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
@@ -40,7 +40,7 @@ I am fluent in Italian, Norwegian and English.
 
 > I was a TA in the [Algorithms and Data Structures](http://www.uio.no/studier/emner/matnat/ifi/INF2220/) class. I also TA'ed the [introductory course on interaction design](http://www.uio.no/studier/emner/matnat/ifi/INF1510/), where I was also tasked with developing obligatory assignments using [Processing](https://processing.org/) and [Arduinos](https://www.arduino.cc/).
 
-### Education 
+### 🎓 Education 
 
 - Ph.d.: Language Technology, University of Oslo, 2019
 > Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
@@ -53,7 +53,7 @@ I am fluent in Italian, Norwegian and English.
 
 - B.Sc.: Computer Science, University of Oslo, 2010
 
-### Selected Publications
+### 📖 Selected Publications
 
 Lapponi, Emanuele; Søyland, Martin G.; Velldal, Erik & Oepen, Stephan (2018). *The Talk of Norway: A Richly Annotated Corpus of the Norwegian Parliament*, 1998–2016. Language Resources and Evaluation.
 
