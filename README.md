@@ -1,5 +1,7 @@
 ## Emanuele Lapponi, Ph.D.
 
+![](images/eman.jpg | width=100)
+
 **In short**: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. I am an excellent communicator, and I am able to lead.
 
 **More in depth**: I have experience from Academia, where I have worked both as a PhD fellow in Language Technology and as a project researcher, as well as from the industry, where I have led a team of 5 data scientists working on a widely adopted platform for creating virtual assistants.
