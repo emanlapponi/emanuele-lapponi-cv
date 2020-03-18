@@ -10,7 +10,7 @@ I am very fluent in the Python ecosystem for Natural Language Processing (NLP): 
 
 I have a lot of experience in communicating my work and research through both academic and informal, "blog style" writing, and I love public speaking (people say I am good at it, too!). I have presented my work in several international conferences, and in my time in the industry I have dedicated a lot of time to customer relations, improving their understanding of AI and NLP.
 
-I speak and write Italian, Norwegian and English fluently, and love writing in general, be it code or prose.
+I speak and write Italian, Norwegian and English fluently. I love writing, be it prose or code.
 
 ### 👨🏻‍🔧 Employment 
 
