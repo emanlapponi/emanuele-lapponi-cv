@@ -44,11 +44,14 @@ I speak and write Italian, Norwegian and English fluently. I love writing, be it
 
 - Ph.d.: Language Technology, University of Oslo, 2019
 > Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
+>
 > Link: [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
 
 - M.Sc.: Computer Science, University of Oslo, 2012
 > Thesis focus: Negation Resolution and Sentiment Analysis.
+>
 > Link: [Sequence Labeling the Scope of Negation Using Dependency Features](https://pdfs.semanticscholar.org/68b4/aea9428d2832de1e5442d85c25b129b582dd.pdf)
+>
 > Grade: A
 
 - B.Sc.: Computer Science, University of Oslo, 2010
