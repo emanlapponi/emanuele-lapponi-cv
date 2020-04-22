@@ -16,7 +16,7 @@ I speak and write Italian, Norwegian and English fluently. I love writing, be it
 
 - 2018-present: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
-> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaing customer relations, and of course being hands-on with the actual code that runs the show.
+> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course being hands-on with the actual code that runs the show.
 
 - 2012-2019: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
@@ -26,7 +26,7 @@ I speak and write Italian, Norwegian and English fluently. I love writing, be it
 
 - 2014-2015: Researcher, [CLARINO](https://clarin.w.uib.no/)
 
-> I was on leave from my PhD for about a year to continue designing and developing the [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of the Abel cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
+> I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of the Abel cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
 
 - 2017: Researcher, [NLPL](https://neic.no/nlpl/)
 
