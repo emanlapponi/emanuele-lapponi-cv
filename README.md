@@ -2,21 +2,17 @@
 
 <img src="/images/eman.jpg" width="150">
 
-**In short**: I am highly skilled in developing, evaluating, and deploying Natural Language Processing systems using state of the art techniques. Excellent communicator, team player, and able to lead.
+**In short**: I am highly skilled in developing, evaluating, and deploying Machine Learning (ML) systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from Oslo's institute of Computer Science, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in finance where I develop (and supervise the team developing) systems for claim automation, fraud detection and customer insight generation.
 
-**More in depth**: I have experience from Academia, where I have worked both as a PhD fellow in Language Technology and as a project researcher, as well as from the industry, where I have led a team of 5 data scientists working on a widely adopted platform for creating virtual assistants.
+### 👨🏻‍🔧 Employment
 
-I am very fluent in the Python ecosystem for Natural Language Processing (NLP): From low-level pre-processing tools, through shallow and deep learning methods for modeling supervised and unsupervised NLP tasks, to data visualization and deployment using e.g. Docker and Kubernetes.
+- 2020-Present: Senior Machine Learning Engingeer, [Fremtind](https://www.fremtind.no/)
 
-I have a lot of experience in communicating my work and research through both academic and informal, "blog style" writing, and I love public speaking (people say I am good at it, too!). I have presented my work in several international conferences, and in my time in the industry I have dedicated a lot of time to customer relations, improving their understanding of AI and NLP.
+> R&D of systems for claim automation, fraud detection and customer insight generation. Tech lead responsabilities for a group of ML Engineers, data scientists and system developers. Key role at the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why should we implement an ML system in this business process?).
 
-I speak and write Italian, Norwegian and English fluently. I love writing, be it prose or code.
+- 2018-2020: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
-### 👨🏻‍🔧 Employment 
-
-- 2018-present: Lead Data Scientist, [Kindly](https://kindly.ai/)
-
-> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course being hands-on with the actual code that runs the show.
+> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course designing, developing and maintaning the actual ML platform.
 
 - 2012-2019: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
@@ -26,7 +22,7 @@ I speak and write Italian, Norwegian and English fluently. I love writing, be it
 
 - 2014-2015: Researcher, [CLARINO](https://clarin.w.uib.no/)
 
-> I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of the Abel cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
+> I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of a large HPC cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
 
 - 2017: Researcher, [NLPL](https://neic.no/nlpl/)
 
@@ -34,7 +30,7 @@ I speak and write Italian, Norwegian and English fluently. I love writing, be it
 
 - 2011: Developer, [cXense](https://www.cxense.com/)
 
-> Summer job at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis.
+> Internship at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis.
 
 - 2010-2012: Teaching Assistant (TA), University of Oslo
 
