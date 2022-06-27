@@ -6,7 +6,7 @@
 
 ### 👨🏻‍🔧 Employment
 
-#### `2020-Present`: Senior Machine Learning Engingeer, [Fremtind](https://www.fremtind.no/)
+#### `2020-Present`: Senior Machine Learning Engineer, [Fremtind](https://www.fremtind.no/)
 
 > R&D of systems for claim automation, fraud detection and customer insight generation. Tech lead responsabilities for a group of ML Engineers, data scientists and system developers. Key role at the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why should we implement an ML system in this business process?).
 
