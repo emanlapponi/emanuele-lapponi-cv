@@ -2,7 +2,7 @@
 
 <img src="/images/ttt.jpeg">
 
-**In short**: I am highly skilled in developing, evaluating, and deploying Machine Learning (ML) systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from Oslo's institute of Computer Science, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in finance where I develop (and supervise the team developing) systems for claim automation, fraud detection and customer insight generation.
+**In short**: I am highly skilled in developing, evaluating, and deploying Machine Learning (ML) systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from the Institute of Computer Science of the University of Oslo, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in finance where I develop (and supervise the team developing) systems for claim automation, fraud detection and customer insight generation.
 
 ### 👨🏻‍🔧 Employment
 
