@@ -6,51 +6,48 @@
 
 ### 👨🏻‍🔧 Employment
 
-- 2020-Present: Senior Machine Learning Engingeer, [Fremtind](https://www.fremtind.no/)
+#### `2020-Present`: Senior Machine Learning Engingeer, [Fremtind](https://www.fremtind.no/)
 
 > R&D of systems for claim automation, fraud detection and customer insight generation. Tech lead responsabilities for a group of ML Engineers, data scientists and system developers. Key role at the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why should we implement an ML system in this business process?).
 
-- 2018-2020: Lead Data Scientist, [Kindly](https://kindly.ai/)
+#### `2018-2020`: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
 > Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course designing, developing and maintaning the actual ML platform.
 
-- 2012-2019: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
+#### `2012-2019`: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
 > My PhD work was partly funded by the [CLARINO project](https://clarin.w.uib.no/), whose mission is facilitating access to NLP tools and resources for researchers in the Social Sciences and the Humanities. Key contributions of the project:
 > - Creating a scalable interchange format for [the Language Analysis Portal](lap.clarino.uio.no)
 > - Collaboration with the Department of Political Science, creating and researching the [Talk of Norway data set](https://github.com/ltgoslo/talk-of-norway)
 
-- 2014-2015: Researcher, [CLARINO](https://clarin.w.uib.no/)
+#### `2014-2015`: Researcher, [CLARINO](https://clarin.w.uib.no/)
 
 > I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of a large HPC cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
 
-- 2017: Researcher, [NLPL](https://neic.no/nlpl/)
+#### `2017`: Researcher, [NLPL](https://neic.no/nlpl/)
 
 > I was hired for 3 months as researcher to develop [the Sherlock system](https://github.com/ltgoslo/sherlock). This is an open source release of the system I developed as a master student, which ranked first and second on the two tracks of the 2012 [\*SEM shared task on negation resolution](https://www.clips.uantwerpen.be/sem2012-st-neg/). Sherlock was used as a tool to evaluate parser outputs in the [2017 EPE shared task](http://epe.nlpl.eu/).
 
-- 2011: Developer, [cXense](https://www.cxense.com/)
+#### `2011`: Developer, [cXense](https://www.cxense.com/)
 
 > Internship at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis.
 
-- 2010-2012: Teaching Assistant (TA), University of Oslo
+#### `2010-2012`: Teaching Assistant (TA), University of Oslo
 
 > I was a TA in the [Algorithms and Data Structures](http://www.uio.no/studier/emner/matnat/ifi/INF2220/) class. I also TA'ed the [introductory course on interaction design](http://www.uio.no/studier/emner/matnat/ifi/INF1510/), where I was also tasked with developing obligatory assignments using [Processing](https://processing.org/) and [Arduinos](https://www.arduino.cc/).
 
 ### 🎓 Education 
 
-- Ph.d.: Language Technology, University of Oslo, 2019
-> Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
+#### Ph.d.: Language Technology, University of Oslo, 2019
+Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
+Link: [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
 
-> Link: [The Language Analysis Portal: Design, Implementation and Use](https://www.dropbox.com/s/b0h41z0kthm321f/emanuele-lapponi-phd-thesis.pdf?dl=0)
+#### M.Sc.: Computer Science, University of Oslo, 2012
+Thesis focus: Negation Resolution and Sentiment Analysis.
+Link: [Sequence Labeling the Scope of Negation Using Dependency Features](https://pdfs.semanticscholar.org/68b4/aea9428d2832de1e5442d85c25b129b582dd.pdf)
+Grade: A
 
-- M.Sc.: Computer Science, University of Oslo, 2012
-> Thesis focus: Negation Resolution and Sentiment Analysis.
-
-> Link: [Sequence Labeling the Scope of Negation Using Dependency Features](https://pdfs.semanticscholar.org/68b4/aea9428d2832de1e5442d85c25b129b582dd.pdf)
-
-> Grade: A
-
-- B.Sc.: Computer Science, University of Oslo, 2010
+#### B.Sc.: Computer Science, University of Oslo, 2010
 
 ### 📖 Selected Publications
 
