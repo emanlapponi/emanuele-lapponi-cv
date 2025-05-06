@@ -2,17 +2,20 @@
 
 <img src="/images/ttt.jpeg">
 
-**In short**: I am highly skilled in developing, evaluating, and deploying Machine Learning (ML) systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from the Institute of Computer Science of the University of Oslo, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in finance where I develop (and supervise the team developing) systems for claim automation, fraud detection and customer insight generation.
+**About me**: I am highly skilled in developing, evaluating, and deploying ML and AI systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from the Institute of Computer Science of the University of Oslo, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in insurance where I develop (and supervise the team developing) supervised, unsupervised and generative systems for RAG, claim automation, fraud detection, and customer insight generation. Here is a bunch of Pokémon I usually work with: `Python`, `Docker`, `GCP`, `AWS`, `Transformers`, `scikit-learn`, `LGBM`, `FastAPI`, `Flask`, `Streamlit`, `MLFlow`, `Weaviate`, among other things.
 
-### 👨🏻‍🔧 Employment
+In my free time I hang out with my family (2 kids), friends, make music, lift weights, and jump on rails and ledges on plastic shoes with wheels (some call it "rollerblading").
 
-#### `2020-Present`: Senior Machine Learning Engineer, [Fremtind](https://www.fremtind.no/)
+### 👨🏻‍🔧 **Employment**
 
-> R&D of systems for claim automation, fraud detection and customer insight generation. Tech lead responsabilities for a group of ML Engineers, data scientists and system developers. Key role at the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why should we implement an ML system in this business process?).
+#### `2020-Present`: Lead Machine Learning Engineer, [Fremtind](https://www.fremtind.no/)
+
+> R&D of systems for claim automation, fraud detection, customer insight generation, and RAG. Strong focus on language data, NLP techniques and LLMs.
+Individual contributor as well as tech Lead for a group of ML Engineers, data scientists and system developers. Often seen working the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why and where should we implement an ML system in this business process?). Do take a look at my talk at Berlin Buzzwords 2024 for a peek at some of the things we work with on [Youtube](https://www.youtube.com/watch?v=f9ZmSSYTwx4).
 
 #### `2018-2020`: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
-> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course designing, developing and maintaning the actual ML platform.
+> Research, development and deployment of the Natural Language Understanding (NLU) system powering the Kindly platform for chatbot creation. Responsibilities: Leading a team of 5 highly skilled data scientist, coordinating feature design across different teams (User Experience, Sales, DevOPS and so on), maintaining customer relations, and of course designing, developing and maintaning the actual ML platform. Five years after I left, the company is still thriving. Do have a [look](https://www.kindly.ai/).
 
 #### `2012-2019`: PhD Research Fellow in Natural Language Processing (NLP), University of Oslo
 
@@ -30,13 +33,13 @@
 
 #### `2011`: Developer, [cXense](https://www.cxense.com/)
 
-> Internship at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis.
+> Internship at an NLP-centric startup, where I worked on live data visualization as well as Sentiment Analysis. Rumor has it that the sentiment analysis engine I made that summer stayed in production for several years.
 
 #### `2010-2012`: Teaching Assistant (TA), University of Oslo
 
 > I was a TA in the [Algorithms and Data Structures](http://www.uio.no/studier/emner/matnat/ifi/INF2220/) class. I also TA'ed the [introductory course on interaction design](http://www.uio.no/studier/emner/matnat/ifi/INF1510/), where I was also tasked with developing obligatory assignments using [Processing](https://processing.org/) and [Arduinos](https://www.arduino.cc/).
 
-### 🎓 Education 
+### 🎓 **Education**
 
 #### Ph.d.: Language Technology, University of Oslo, 2019
 Thesis focus: Design, implementation, and use of NLP tools and techniques in the Digital Humanities
@@ -49,7 +52,7 @@ Grade: A
 
 #### B.Sc.: Computer Science, University of Oslo, 2010
 
-### 📖 Selected Publications
+### 📖 **Selected Publications**
 
 Lapponi, Emanuele; Søyland, Martin G.; Velldal, Erik & Oepen, Stephan (2018). *The Talk of Norway: A Richly Annotated Corpus of the Norwegian Parliament*, 1998–2016. Language Resources and Evaluation.
 
