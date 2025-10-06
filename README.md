@@ -4,7 +4,7 @@
 
 **About me**: I am highly skilled in developing, evaluating, and deploying ML and AI systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from the Institute of Computer Science of the University of Oslo, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in insurance where I develop (and supervise the team developing) supervised, unsupervised and generative systems for RAG, claim automation, fraud detection, and customer insight generation. Here is a bunch of Pokémon I usually work with: `Python`, `Docker`, `GCP`, `AWS`, `Transformers`, `scikit-learn`, `LGBM`, `FastAPI`, `Flask`, `Streamlit`, `MLFlow`, `Weaviate`, among other things.
 
-In my free time I hang out with my family (2 kids), friends, make music, lift weights, and jump on rails and ledges on plastic shoes with wheels (some call it "rollerblading").
+In my free time I hang out with my family (2 kids) and friends, make music, lift weights, and practice Brazilian Jiu-Jitsu.
 
 ### 👨🏻‍🔧 **Employment**
 
@@ -25,7 +25,7 @@ Individual contributor as well as tech Lead for a group of ML Engineers, data sc
 
 #### `2014-2015`: Researcher, [CLARINO](https://clarin.w.uib.no/)
 
-> I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of a large HPC cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
+> I was on leave from my PhD for about a year to continue designing and developing [the Language Analysis Portal](lap.clarino.uio.no), a user-friendly web application for combining NLP tools and annotating text with linguistic annotations leveraging the processing power of a large Slurm cluster. I worked with a team of 4 developers at all levels, from database design and implementation to tool integration and graphical user interface.
 
 #### `2017`: Researcher, [NLPL](https://neic.no/nlpl/)
 
