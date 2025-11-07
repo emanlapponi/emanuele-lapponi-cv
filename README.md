@@ -11,7 +11,7 @@ In my free time I hang out with my family (2 kids) and friends, make music, lift
 #### `2020-Present`: Lead Machine Learning Engineer, [Fremtind](https://www.fremtind.no/)
 
 > R&D of systems for claim automation, fraud detection, customer insight generation, and RAG. Strong focus on language data, NLP techniques and LLMs.
-Individual contributor as well as tech Lead for a group of ML Engineers, data scientists and system developers. Often seen working the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why and where should we implement an ML system in this business process?). Do take a look at my talk at Berlin Buzzwords 2024 for a peek at some of the things we work with on [Youtube](https://www.youtube.com/watch?v=f9ZmSSYTwx4).
+Individual contributor as well as tech Lead for a group of ML Engineers, data scientists and system developers. Often seen working the crossroads between business and data, both as a coordinator (who should do what, when and how?) as well as an ambassador (why and where should we implement an ML-system in this business process?). Do take a look at my talk at Berlin Buzzwords 2024 for a peek at some of the things we work with on [Youtube](https://www.youtube.com/watch?v=f9ZmSSYTwx4).
 
 #### `2018-2020`: Lead Data Scientist, [Kindly](https://kindly.ai/)
 
