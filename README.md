@@ -4,7 +4,7 @@
 
 **About me**: I am highly skilled in developing, evaluating, and deploying ML and AI systems using state of the art techniques. Excellent communicator, team player, and able to lead. I hold a Ph.D. from the Institute of Computer Science of the University of Oslo, focused on Natural Language Processing (NLP). I have a lot of experience in developing complex ML systems from the ground up from both successful startups as well as research institutions, and currently work in insurance where I develop (and supervise the team developing) supervised, unsupervised and generative systems for RAG, claim automation, fraud detection, and customer insight generation. Here is a bunch of Pokémon I usually work with: `Python`, `Docker`, `GCP`, `AWS`, `Transformers`, `scikit-learn`, `LGBM`, `FastAPI`, `Flask`, `Streamlit`, `MLFlow`, `Weaviate`, among other things.
 
-In my free time I hang out with my family (2 kids) and friends, make music, lift weights, and practice Brazilian Jiu-Jitsu.
+In my free time I hang out with my family (2 kids, 1 partner, 1 dog) and friends, make music, lift weights, and practice Brazilian Jiu-Jitsu.
 
 ### 👨🏻‍🔧 **Employment**
 
